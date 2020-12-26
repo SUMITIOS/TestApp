@@ -1,5 +1,5 @@
-# Lexanimation
-This is React Native Codebase for "Swipe Guide Animation" in Android and iOS App. Here, the Button bounces and the arrow animates to guide the user to swipe.
+# Test App
+This is React Native Codebase for "Movies search" in Android and iOS App. Ignore the login part please.
 
 ### With the React Native CLI:
 
@@ -8,7 +8,7 @@ This is React Native Codebase for "Swipe Guide Animation" in Android and iOS App
 $ sudo npm install -g react-native-cli
 ```
 
-# Navigate to clonned folder and Install dependencies
+# Navigate to cloned folder and Install dependencies
 
 ```bash
 $ yarn install
